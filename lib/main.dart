@@ -96,10 +96,3 @@ class _HomeState extends State<Home> {
   }
 }
 
-
-
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https://github.com/RenanBGentil/conversor_moedas.git
-git push -u origin master
